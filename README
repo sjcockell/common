@@ -1,0 +1,10 @@
+Common - python libraries used in multile other projects.
+
+Biolibrary - building on BioPython to provide useful, one touch SequenceHandling, and more.
+
+Requires BioPython (http://www.biopython.org).
+
+Copyright (c) Simon J Cockell, Newcastle University Bioinformatics Support Unit, 2008.
+
+Simon J Cockell, 6/10/2008. FuzzierLogic.com
+
